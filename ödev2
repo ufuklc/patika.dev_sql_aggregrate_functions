@@ -1,1 +1,2 @@
-
+select COUNT(title) from film
+where title LIKE 'C%';
